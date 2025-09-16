@@ -1,6 +1,7 @@
 <html>
   <body>
-    <h1>bachelor of computer applications </h1>
-    <h2> aditya degree college </h2>
-  </body>
+    <body>
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+ </body>
 </html>
